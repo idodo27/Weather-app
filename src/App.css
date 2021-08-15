@@ -1,0 +1,27 @@
+
+.divi {
+  background-color: cadetblue;
+  font-family: "Ubuntu";
+  font-size: 20px;
+  text-align : center;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+h1{
+  font-size: 40px;
+}
+.icon-set {
+  width: 100px;
+  height: 100px;
+
+}
+body{
+  background-color: cadetblue;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
