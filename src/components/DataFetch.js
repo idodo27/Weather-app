@@ -8,7 +8,7 @@ const citys = ["", "Tel-Aviv", "Eilat", "Paris", "New-York", "Vancouver", "Hong-
 function DataFetch() {
     const [name, setName] = useState();
     const [city, setCity] = useState([]);
-    const api = "ea5d198725553cc9c31b3a9cf89ad810";
+    const api = "api-key";
     useEffect(() => {
         setName(getCity());
     axios
